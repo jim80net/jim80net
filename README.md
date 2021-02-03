@@ -1,4 +1,4 @@
-### Hi there 👋
+![It do be like this sometimes, though](images/cncf-always-sunny.jpg)
 
 <!--
 **jim80net/jim80net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
